@@ -106,8 +106,6 @@ elif selection == "3. About the Data":
     
     **Target Variable:**
     -   `LATE_15`: Binary Classification (1 if Arrival Delay > 15 mins, else 0).
-    
-    *Correction: Initial experiments included `HOURLY_TRAFFIC` and `DISTANCE`, but these were removed during feature selection due to redundancy or data pipeline constraints.*
     """)
 
 # 4. EDA
